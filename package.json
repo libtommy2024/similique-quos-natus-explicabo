@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/similique-quos-natus-explicabo",
-  "version": "17.43.432",
+  "version": "17.43.433",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -248,5 +248,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/similique-quos-natus-explicabo/issues"
   },
-  "packageManager": "yarn@4.9.3"
+  "packageManager": "yarn@4.9.4"
 }
